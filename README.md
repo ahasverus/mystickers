@@ -6,3 +6,4 @@
 [<img src="https://raw.githubusercontent.com/ahasverus/pkgmin/master/inst/figures/pkgmin.png" height="120"/>](https://github.com/ahasverus/pkgmin)
 [<img src="https://raw.githubusercontent.com/ahasverus/argostools/master/inst/figures/argostools.png" height="120"/>](https://github.com/ahasverus/argostools)
 [<img src="https://raw.githubusercontent.com/ahasverus/rtoolbox/master/man/figures/hexsticker.png" height="120"/>](https://github.com/ahasverus/rtoolbox)
+[<img src="https://raw.githubusercontent.com/FRBCesab/rcompendium/master/man/figures/hexsticker.png" height="120"/>](https://github.com/FRBCesab/rcompendium)
