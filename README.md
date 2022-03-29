@@ -10,3 +10,4 @@
 [<img src="https://raw.githubusercontent.com/FRBCesab/popbayes/master/man/figures/hexsticker.png" height="120"/>](https://github.com/FRBCesab/popbayes)
 [<img src="https://raw.githubusercontent.com/ahasverus/franceinter/master/man/figures/hexsticker.png" height="120"/>](https://github.com/ahasverus/franceinter)
 [<img src="https://raw.githubusercontent.com/inSileco/omdbr/master/man/figures/logo1.png" height="120"/>](https://github.com/inSileco/omdbr)
+[<img src="https://raw.githubusercontent.com/FRBCesab/funbiogeo/main/man/figures/funbiogeo-sticker.png" height="120"/>](https://github.com/FRBCesab/funbiogeo)
