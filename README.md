@@ -10,5 +10,5 @@
 [<img src="https://raw.githubusercontent.com/FRBCesab/popbayes/master/man/figures/hexsticker.png" height="120"/>](https://github.com/FRBCesab/popbayes)
 [<img src="https://raw.githubusercontent.com/ahasverus/mystickers/master/pngs/radiofrance.png" height="120"/>](https://github.com/ahasverus/radiofrance)
 [<img src="https://raw.githubusercontent.com/FRBCesab/rwoslite/main/man/figures/hexsticker.png" height="120"/>](https://github.com/FRBCesab/rwoslite)
-[<img src="https://raw.githubusercontent.com/FRBCesab/funbiogeo/main/man/figures/funbiogeo-sticker.png" height="120"/>](https://github.com/FRBCesab/funbiogeo)
+[<img src="pngs/funbiogeo-sticker-hd.png" height="120"/>](https://github.com/FRBCesab/funbiogeo)
 [<img src="https://raw.githubusercontent.com/inSileco/omdbr/master/man/figures/logo1.png" height="120"/>](https://github.com/inSileco/omdbr)
